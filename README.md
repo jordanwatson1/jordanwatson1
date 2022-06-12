@@ -18,7 +18,7 @@
 ### Hi 👋, I'm Jordan
 <hr>
 
-I am an aspiring software engineer currently pursing my Masters of Computer Science at the University of victoria in Canada.
+I am an aspiring software engineer currently pursing my Masters of Computer Science at the University of Victoria in Canada.
 <hr>
 
 <ul>
