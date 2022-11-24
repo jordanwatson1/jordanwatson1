@@ -17,10 +17,10 @@ I am an aspiring software engineer currently pursing my Masters of Computer Scie
 
 <ul>
   <li>
-    🔭 I’m currently working on my Master's on how to attract third-party developers to emerging software ecosystems
+    🔭 I’m currently a Full Stack Software Developer who recently graduated with a MASc in Computer Science
   </li>
   <li>
-    🌱 I’m currently learning front end development on the side of my Masters
+    🌱 I’m currently learning applications of AI along side my work
   </li>
   <li>
     📫 How to reach me: jordanwatson915@gmail.com
