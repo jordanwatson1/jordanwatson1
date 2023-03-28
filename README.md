@@ -12,7 +12,7 @@
 ### Hi 👋, I'm Jordan
 <hr>
 
-I am an aspiring software engineer currently pursing my Masters of Computer Science at the University of Victoria in Canada.
+I am a software engineer out of Victoria, BC. 
 <hr>
 
 <ul>
