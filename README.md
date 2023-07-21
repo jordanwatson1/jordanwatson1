@@ -17,7 +17,7 @@ I am a software engineer out of Victoria, BC.
 
 <ul>
   <li>
-    🔭 I’m currently a Full Stack Software Developer who recently graduated with a MASc in Computer Science
+    🔭 I’m currently a Full Stack Developer who recently graduated with a MASc in Computer Science
   </li>
   <li>
     🌱 I’m currently learning applications of AI along side my work
